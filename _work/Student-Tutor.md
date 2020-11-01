@@ -1,8 +1,8 @@
 ---
 title: "Student Tutor"
-collection: experience
+collection: work
 type: "Undergraduate Course"
-permalink: /experience/Student-Tutor
+permalink: /work/Student-Tutor
 venue: "BRAC University, Department of Mathematics and Natural Sciences"
 date: 01-07-2020
 location: "Dhaka, Bangladesh"

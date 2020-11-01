@@ -1,8 +1,8 @@
 ---
 title: "International Conference on Energy and Power EngineeringIEEE Power & Energy Society"
-collection: experience
+collection: work
 type: "Volunteer"
-permalink: /experience/IEPC
+permalink: /work/IEPC
 venue: "BRAC CDM"
 date: 14-03-2019
 location: "Savar, Bangladesh"
