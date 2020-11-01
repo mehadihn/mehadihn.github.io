@@ -2,7 +2,7 @@
 title: "Short introduction to Neural Networks & Deep Learning"
 collection: projects
 type: "Talk"
-permalink: /talks/Neural-Network
+permalink: /projects/Neural-Network
 venue: "BRAC University"
 date: 2019-11-27
 location: "Dhaka, Bangladesh"
