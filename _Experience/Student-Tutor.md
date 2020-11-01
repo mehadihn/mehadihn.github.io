@@ -1,11 +1,11 @@
 ---
 title: "Student Tutor"
-collection: teaching
+collection: Experience
 type: "Undergraduate Course"
-permalink: /teaching/Student-Tutor
+permalink: /Experience/Student-Tutor
 venue: "BRAC University, Department of Mathematics and Natural Sciences"
 date: 01-07-2020
-location: "Dhaka, Country"
+location: "Dhaka, Bangladesh"
 ---
 
 Currently working as an ST (Student Tutor / Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences
