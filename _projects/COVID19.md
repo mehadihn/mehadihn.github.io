@@ -1,6 +1,6 @@
 ---
 title: "An Android App on COVID 19"
-collection: talks
+collection: projects
 type: "Android App"
 permalink: /projects/COVID19
 venue: ""
