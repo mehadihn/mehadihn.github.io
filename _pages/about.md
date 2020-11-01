@@ -14,7 +14,7 @@ Final semester undergraduate student of **Computer Science and Engineering** at 
 
 Research Interests
 ======
-*Artificial Intelligence and Machine Learning
-*Deep Learning and Neural Networks.
-*Bio medical image processing
-*Active Learning
+* Artificial Intelligence and Machine Learning
+* Deep Learning and Neural Networks.
+* Bio-Medical Image Segmentation
+* Active Learning
