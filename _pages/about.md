@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Final semester undergraduate student of **Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/){target="_blank"}, Bangladesh. My research interest are in Machine Learning, Artificial Intelligence. Currently doing my thesis on Biomedical Image Segmentation. I am also a Student Tutor (Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences, BRAC University.
+Final semester undergraduate student of **Computer Science and Engineering** at [BRAC University](https://www.bracu.ac.bd/), Bangladesh. My primary research interest are in Machine Learning, Artificial Intelligence, Image Segmentation. Currently doing my thesis on Biomedical Image Segmentation. I am also a Student Tutor (Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences, BRAC University.
 
+**I am currently looking for a position in a Research Lab for my Masters degree.**
 
 A data-driven personal website
 ======
