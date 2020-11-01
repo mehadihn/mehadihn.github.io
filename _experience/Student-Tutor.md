@@ -5,6 +5,7 @@ type: "Undergraduate Course"
 permalink: /experience/Student-Tutor
 venue: "BRAC University, Department of Mathematics and Natural Sciences"
 date: 01-07-2020
+end: Present
 location: "Dhaka, Bangladesh"
 ---
 
