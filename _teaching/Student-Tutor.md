@@ -10,11 +10,11 @@ location: "Dhaka, Country"
 
 Currently working as an ST (Student Tutor / Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences
 
-Heading 1
+MAT215: MATH III Complex Variables and Laplace Transformations
 ======
+[October 2020 -Present]
 
-Heading 2
-======
 
-Heading 3
+MAT120: MATH II Integral Calculus and Differential Equations
 ======
+[July 2020 - September 2020]
