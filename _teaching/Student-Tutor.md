@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Student-Tutor
 venue: "BRAC University, Department of Mathematics and Natural Sciences"
-date: 2020
+date: 01-07-2020
 location: "Dhaka, Country"
 ---
 
