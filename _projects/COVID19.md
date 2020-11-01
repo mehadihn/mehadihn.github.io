@@ -3,9 +3,7 @@ title: "An Android App on COVID 19"
 collection: projects
 type: "Android App"
 permalink: /projects/COVID19
-venue: ""
 date: 2020-06-01
-location: "Dhaka, Bangladesh"
 ---
 
 A simple Android app with decent UI to get you updated with the current statistics of COVID-19 of Bangladesh along with worldwide stats.
