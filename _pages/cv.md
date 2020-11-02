@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+Below is a summary of my Resume. For more information, please see my [full Resume](https://mehadihn.github.io/files/Mehadi_Hassan_Resume.pdf).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in  Computer Science & Engineering, BRAC University [January 2017 - Present]
+* Higher Secondary Certificate, Notre Dame College, Dhaka [2014 - 2016]
+* Secondary School Certificate, Ideal School & College, Dhaka [2004 - 2014]
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Student Tutor: BRAC University [July 2020 - Present]
+  * MAT215:  MATH III Complex Variables and Laplace Transformations [October 2020 -Present]
+  * MAT120:  MATH II Integral Calculus and Differential Equations [July 2020 - September2020]
+  * Duties included: Providing consultation, managing [buX](https://bux.bracu.ac.bd/), automation of grading, managing gradesheet and so on. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Volunteer: International Conference on Energy and Power EngineeringIEEE Power & Energy Society [14 - 16 March, 2019]
+  * Managed the IT part of the whole conference.
+  * Guided international guests and participants throughout the event
+
+* General Member: BRAC University Computer Club [2018 - 2019]
+* Boy Scout: Bangladesh Scouts, Ideal School and College [2010 - 2013]
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: JAVA, Python, HTML, SQL, LaTeX, Verilog
+* Python Libraries: Keras, TensorFlow, Scikit-learn, Pandas, NumPy
+* Software & Tools: Google Colab, Anaconda Navigator, MS Office, Adobe Photoshop, MATLAB, Microwind
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
