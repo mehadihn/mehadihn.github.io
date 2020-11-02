@@ -31,14 +31,22 @@ Work experience
 * General Member: BRAC University Computer Club [2018 - 2019]
 * Boy Scout: Bangladesh Scouts, Ideal School and College [2010 - 2013]
   
-Skills
+Research
 ======
-* Programming Languages: JAVA, Python, HTML, SQL, LaTeX, Verilog
-* Python Libraries: Keras, TensorFlow, Scikit-learn, Pandas, NumPy
-* Software & Tools: Google Colab, Anaconda Navigator, MS Office, Adobe Photoshop, MATLAB, Microwind
+  <ul>{% for post in site.research %}
+    {% include archive-single.html.html %}
+  {% endfor %}</ul>
+
 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+
+Skills
+======
+* Programming Languages: JAVA, Python, HTML, SQL, LaTeX, Verilog
+* Python Libraries: Keras, TensorFlow, Scikit-learn, Pandas, NumPy
+* Software & Tools: Google Colab, Anaconda Navigator, MS Office, Adobe Photoshop, MATLAB, Microwind

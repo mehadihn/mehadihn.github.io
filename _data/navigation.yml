@@ -7,13 +7,14 @@ main:
   #  url: /publications/    
 
   - title: "Work Experience"
-    url: /experience/    
+    url: /experience/
+
+  - title: "Research"
+    url: /research/
     
   - title: "Talks"
     url: /talks/
-
-  - title: "Research"
-    url: /research/ 
+ 
 
   - title: "Projects"
     url: /projects/
