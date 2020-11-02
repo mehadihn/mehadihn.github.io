@@ -24,7 +24,7 @@ Work experience
   * MAT120:  MATH II Integral Calculus and Differential Equations [July 2020 - September2020]
   * Duties included: Providing consultation, managing [buX](https://bux.bracu.ac.bd/), automation of grading, managing gradesheet and so on. 
 
-* Volunteer: International Conference on Energy and Power EngineeringIEEE Power & Energy Society [14 - 16 March, 2019]
+* Volunteer: International Conference on Energy and Power Engineering IEEE Power & Energy Society [14 - 16 March, 2019]
   * Managed the IT part of the whole conference.
   * Guided international guests and participants throughout the event
 
@@ -34,9 +34,8 @@ Work experience
 Research
 ======
   <ul>{% for post in site.research %}
-    {% include archive-single.html %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-
 
 Talks
 ======
