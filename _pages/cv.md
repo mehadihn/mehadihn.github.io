@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Resume"
+excerpt: "Resume - Mehadi Hassan"
 permalink: /resume/
 author_profile: true
 redirect_from:
