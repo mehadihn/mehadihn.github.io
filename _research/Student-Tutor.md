@@ -1,6 +1,6 @@
 ---
 title: "Student Tutor"
-collection: experience
+collection: research
 type: "Undergraduate Course"
 permalink: /research/Student-Tutor
 venue: "BRAC University, Department of Mathematics and Natural Sciences"
