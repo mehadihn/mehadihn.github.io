@@ -219,7 +219,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: flase
+      share:
       comments: true
   # _publications
   - scope:
