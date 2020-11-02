@@ -34,7 +34,7 @@ Work experience
 Research
 ======
   <ul>{% for post in site.research %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
