@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Final semester undergraduate student of **Computer Science and Engineering** at **[BRAC University](https://www.bracu.ac.bd/)**, Bangladesh. My primary research interest are in Machine Learning, Artificial Intelligence, Image Segmentation. Currently doing my thesis on Biomedical Image Segmentation. I am also a Student Tutor (Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences, BRAC University.
+Final semester undergraduate student of **Computer Science and Engineering** at **[BRAC University](https://www.bracu.ac.bd/)**, Bangladesh. My primary research interest are in Machine Learning, Artificial Intelligence, Image Segmentation. Currently doing my [thesis](https://mehadihn.github.io/research/thesis) on Biomedical Image Segmentation under the supervision of Professor [Dr. Mahbub Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd), Sowmitra Das and Shahnewaz Ahmed. I am also a Student Tutor (Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences, BRAC University.
 
 **I am currently looking for a position in a Research Lab for my Masters degree.**
 
