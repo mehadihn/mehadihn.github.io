@@ -50,3 +50,8 @@ Skills
 * Programming Languages: JAVA, Python, HTML, SQL, LaTeX, Verilog
 * Python Libraries: Keras, TensorFlow, Scikit-learn, Pandas, NumPy
 * Software & Tools: Google Colab, Anaconda Navigator, MS Office, Adobe Photoshop, MATLAB, Microwind
+
+Achievements
+======
+* Got placed in VC’s List for a semester
+* Got placed in Deans’s List for 3 semesters.
