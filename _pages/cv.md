@@ -54,4 +54,4 @@ Skills
 Achievements
 ======
 * Got placed in VC’s List for a semester
-* Got placed in Deans’s List for 3 semesters.
+* Got placed in Dean’s List for 3 semesters.
