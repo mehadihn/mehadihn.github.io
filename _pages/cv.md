@@ -49,7 +49,7 @@ Skills
 ======
 * Programming Languages: JAVA, Python, HTML, SQL, LaTeX, Verilog
 * Python Libraries: Keras, TensorFlow, Scikit-learn, Pandas, NumPy
-* Software & Tools: Google Colab, Anaconda Navigator, MS Office, Adobe Photoshop, MATLAB, Microwind
+* Software & Tools: Git, VS Code, Google CoLab, PyCharm, Anaconda Navigator, Netbeans, Android Studio, Microwind, Quartus
 
 Achievements
 ======
