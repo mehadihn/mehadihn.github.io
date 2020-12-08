@@ -18,3 +18,5 @@ Research Interests
 * Deep Learning and Neural Networks.
 * Bio-Medical Image Segmentation
 * Active Learning
+* Computer Vision
+* HCI
