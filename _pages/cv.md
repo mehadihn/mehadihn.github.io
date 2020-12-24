@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below is a summary of my Resume. For more information, please see my [full Resume]().
+Below is a summary of my Resume. For more information, please see my [full Resume](https://mehadihn.github.io/files/Mehadi_Hassan_Resume.pdf).
 
 Education
 ======
