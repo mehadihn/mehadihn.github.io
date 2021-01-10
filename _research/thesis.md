@@ -1,5 +1,5 @@
 ---
-title: "A Novel Approach of Making Deep Neural Network Anatomically Aware for Biomedical Image Classification and Segmentation"
+title: "An Active-Learning based Training-Schedule for Biomedical Image Segmentation on Deep Neural Networks"
 collection: research
 type: "Thesis"
 permalink: /research/thesis
