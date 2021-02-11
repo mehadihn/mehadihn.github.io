@@ -14,14 +14,14 @@ Below is a summary of my Resume. For more information, please see my [full Resum
 
 Education
 ======
-* B.Sc. in  Computer Science & Engineering, BRAC University [January 2017 - Present]
+* B.Sc. in  Computer Science & Engineering, BRAC University [January 2017 - January 2021]
 * Higher Secondary Certificate, Notre Dame College, Dhaka [2014 - 2016]
 * Secondary School Certificate, Ideal School & College, Dhaka [2004 - 2014]
 
 Work experience
 ======
-* Student Tutor: BRAC University [July 2020 - Present]
-  * MAT215:  MATH III Complex Variables and Laplace Transformations [October 2020 -Present]
+* Student Tutor: BRAC University [July 2020 - December 2020]
+  * MAT215:  MATH III Complex Variables and Laplace Transformations [October 2020 - December 2020]
   * MAT120:  MATH II Integral Calculus and Differential Equations [July 2020 - September2020]
   * Duties included: Providing consultation, managing [buX](https://bux.bracu.ac.bd/), automation of grading, managing gradesheet and so on. 
 
