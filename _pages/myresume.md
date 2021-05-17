@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "My Rsume"
-excerpt: "Resume - Mehadi Hassan"
+title: "My Resume PDF"
+excerpt: "Resume PDF - Mehadi Hassan"
 permalink: /myresume/
 author_profile: true
 ---
