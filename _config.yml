@@ -194,6 +194,7 @@ collections:
     permalink: /:collection/:path/
 
 
+
 # Defaults
 defaults:
   # _posts
@@ -262,6 +263,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
+
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false    
+
+
   # _talks
   - scope:
       path: ""
