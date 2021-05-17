@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Completed my undergraduate from **Computer Science and Engineering** at **[BRAC University](https://www.bracu.ac.bd/)**, Bangladesh. My primary research interests are in Machine Learning, Artificial Intelligence, Image Processing. My undergraduare [thesis](https://mehadihn.github.io/research/thesis) was on Biomedical Image Segmentation and Active Learning under the supervision of [Professor Dr. Mahbub Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd), Sowmitra Das and Shahnewaz Ahmed. I have also served as a Student Tutor (Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences, BRAC University.
+Completed my undergraduate from **Computer Science and Engineering** at **[BRAC University](https://www.bracu.ac.bd/)**, Bangladesh. My primary research interests are in Machine Learning, Artificial Intelligence, Image Processing. My undergraduare [thesis](https://mehadihn.github.io/research/thesis) was on Biomedical Image Segmentation and Active Learning under the supervision of [Professor Dr. Mahbub Majumdar](https://www.bracu.ac.bd/about/people/mahbubul-alam-majumdar-phd), Sowmitra Das and Shahnewaz Ahmed. I have also served as a Student Tutor (Undergraduate Teaching Assistant) at Department of Mathematics and Natural Sciences, BRAC University. Currently working as a Customer Support Specialist at Augmedix.
 
 
 Research Interests
