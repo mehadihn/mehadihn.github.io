@@ -20,20 +20,13 @@ Education
 
 Work experience
 ======
-* Customer Support Specialist (Technical Support Engineer): Augmedix [March 2021 - Present]
-  * Analyzing multiple tools and logs to determine the root cause of various components of the Augmedix technology stack (e.g. proprietary software, Google Glass / Smartphone Mobile Device, Customer Network Connectivity, Employee Network Connectivity, Server) and Customer Electronic Health Record (EHR) Software
-  * Troubleshoot by implementing Standard Operating Procedures, escalating to other departments (e.g., Network Engineering, Software Engineering) as necessary.
-  * Maintaining external communication with the Provider, Provider local IT, Global Scribe vendor IT, EHR IT, and also with other internal departments to ensure maximum service uptime.
-  * Properly documenting issues in several systems (Freshdesk/Asana/Salesforce) as required, including presentation of data/insight that will lead to effective problem-solving. 
+* Software Engineer: Credosense [June 2021 - Present]
+
+* Customer Support Specialist (Technical Support Engineer): Augmedix [March 2021 - May 2021]
 
 * Student Tutor: BRAC University [July 2020 - December 2020]
-  * MAT215:  MATH III Complex Variables and Laplace Transformations [October 2020 - December 2020]
-  * MAT120:  MATH II Integral Calculus and Differential Equations [July 2020 - September2020]
-  * Duties included: Providing consultation, managing [buX](https://bux.bracu.ac.bd/), automation of grading, managing gradesheet and so on. 
 
 * Volunteer: International Conference on Energy and Power Engineering IEEE Power & Energy Society [14 - 16 March, 2019]
-  * Managed the IT part of the whole conference.
-  * Guided international guests and participants throughout the event
 
 * General Member: BRAC University Computer Club [2018 - 2019]
 * Boy Scout: Bangladesh Scouts, Ideal School and College [2010 - 2013]
