@@ -11,7 +11,7 @@ title                    : "Mehadi Hassan"
 title_separator          : "-"
 name                     : &name "Mehadi Hassan"
 description              : &description "Mehadi Hassan"
-url                      : https://mehadihn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.mehadihassan.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "mehadi.hassan@g.bracu.ac.bd"
+  email            :  "hi@mehadihassan.me"
   researchgate     :  "https://www.researchgate.net/profile/Mehadi_Hassan2"
   uri              :
   bitbucket        :
