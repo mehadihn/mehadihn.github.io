@@ -7,6 +7,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-[1](https://mehadihn.github.io/files/Mehadi_Hassan_Resume.pdf)
+[Public](../files/Mehadi_Hassan_Resume.pdf)
 
-[2](https://mehadihn.github.io/share/Mehadi_Hassan_Resume.pdf)
+[Private](../share/Mehadi_Hassan_Resume.pdf)

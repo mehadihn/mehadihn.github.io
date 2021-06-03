@@ -17,6 +17,6 @@ Undergraduate Thesis Work.
 
 
 ## Members:
-* [Mehadi Hassan](https://mehadihn.github.io/)
+* [Mehadi Hassan](https://mehadihassan.me/)
 * Shemonto Das
 * Shoaib Ahmed Dipu
