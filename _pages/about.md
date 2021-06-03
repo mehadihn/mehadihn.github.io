@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About - Mehadi Hassan"
+title: "Mehadi Hassan"
+excerpt: "Mehadi Hassan"
 author_profile: true
 redirect_from: 
   - /about/
