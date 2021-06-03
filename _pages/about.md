@@ -12,7 +12,7 @@ Completed my undergraduate from **Computer Science and Engineering** at **[BRAC 
 
 I am always open to acquiring new knowledge. I believe that every day is a good day to learn something new. I am passionate about software and interested in working on cutting-edge technologies like ML and AI. Additionally, I want to pursue higher studies and conduct researches so that I can contribute to society.
 
-If you want to reach out to me, please send an email or [leave a message here](https://docs.google.com/forms/d/e/1FAIpQLSdLZK3NbQCrgc7gDJ3ldpgYY8wSvVBcduG8pD4boQZScTmzEg/viewform?usp=sf_link).
+If you want to reach out to me, please send an [email](mailto:hi@mehadihassan.me) or [leave a message here](https://docs.google.com/forms/d/e/1FAIpQLSdLZK3NbQCrgc7gDJ3ldpgYY8wSvVBcduG8pD4boQZScTmzEg/viewform?usp=sf_link).
 
 Research Interests
 ======
