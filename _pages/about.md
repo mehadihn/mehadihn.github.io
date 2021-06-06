@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mehadi Hassan"
+title: "Hi"
 excerpt: "Mehadi Hassan"
 author_profile: true
 redirect_from: 
