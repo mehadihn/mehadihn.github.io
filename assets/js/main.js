@@ -146,8 +146,8 @@
       strings: typed_strings,
       loop: true,
       typeSpeed: 100,
-      backSpeed: 50,
-      backDelay: 2000
+      backSpeed: 70,
+      backDelay: 1500
     });
   }
 
@@ -252,13 +252,13 @@
   /**
    * Animation on scroll
    */
-  window.addEventListener('load', () => {
-    AOS.init({
-      duration: 1000,
-      easing: 'ease-in-out',
-      once: true,
-      mirror: false
-    })
-  });
+  // window.addEventListener('load', () => {
+  //   AOS.init({
+  //     duration: 1000,
+  //     easing: 'ease-in-out',
+  //     once: true,
+  //     mirror: false
+  //   })
+  // });
 
 })()
