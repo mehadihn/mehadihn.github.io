@@ -439,6 +439,17 @@ section {
   margin-bottom: 0;
 }
 
+
+
+@media (max-width: 577px) {
+  .profile-pic{
+    width: 200px;
+    height: auto;
+    align-items: center!important;
+    position: relative;
+  }
+}
+
 /*--------------------------------------------------------------
 # Facts
 --------------------------------------------------------------*/
@@ -597,6 +608,23 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #0563bb;
+}
+
+.info a{
+  text-decoration: none;
+}
+
+
+.info {
+  margin-top: 10px;
+  border-color: #0563bb;
+  color: #0563bb;
+  font-size: 18px;
+}
+
+.info:hover {
+  background: #0563bb;
+  color: white;
 }
 
 /*--------------------------------------------------------------
