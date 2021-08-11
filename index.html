@@ -48,6 +48,7 @@
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <script src="https://www.google.com/recaptcha/api.js"></script>
 
 
   <!-- Template Main CSS File -->
@@ -825,7 +826,10 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div> -->
-              <div class="text-center"><button type="submit">Send Message</button></div>
+              <div class="text-center"><button class="g-recaptcha" 
+                data-sitekey="6LfQY_IbAAAAACHmCt7fATxtk56IavQSbQyX1T3R" 
+                data-callback='onSubmit' 
+                data-action='submit' type="submit">Send Message</button></div>
             </form>
 
             <script>
@@ -837,6 +841,11 @@
               }
             </script>
 
+            <script>
+              function onSubmit(token) {
+                document.getElementById("demo-form").submit();
+              }
+            </script>
 
           </div>
 
