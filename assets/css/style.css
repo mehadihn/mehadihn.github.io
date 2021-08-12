@@ -355,6 +355,83 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
+.scroll-down {
+  position: absolute;
+  bottom: 3%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  /* right: 16px; */
+}
+
+.mouse {
+  display: inline-block;
+  vertical-align: middle;
+  width: 15px;
+  height: 25px;
+  position: relative;
+  border: 2px solid white;
+  border-radius: 12px;
+}
+
+.mouse:before {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 6px;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background-color: white;
+  -webkit-animation: mouse-animation 2.75s ease-in-out infinite;
+          animation: mouse-animation 2.75s ease-in-out infinite;
+}
+
+@-webkit-keyframes mouse-animation {
+  0% {
+    transform: scale(1, 0);
+    transform-origin: 50% 0;
+  }
+  20%, 80% {
+    transform: scale(1, 1);
+  }
+  81% {
+    transform-origin: 50% 100%;
+  }
+  100% {
+    transform: scale(1, 0);
+    transform-origin: 50% 100%;
+  }
+}
+
+@keyframes mouse-animation {
+  0% {
+    transform: scale(1, 0);
+    transform-origin: 50% 0;
+  }
+  20%, 80% {
+    transform: scale(1, 1);
+  }
+  81% {
+    transform-origin: 50% 100%;
+  }
+  100% {
+    transform: scale(1, 0);
+    transform-origin: 50% 100%;
+  }
+}
+.left,
+.right {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 10px;
+  font-size: 13px;
+  font-weight: bold;
+  color: white;
+  text-transform: uppercase;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
