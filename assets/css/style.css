@@ -364,7 +364,11 @@ h1, h2, h3, h4, h5, h6 {
   /* right: 16px; */
 }
 
-
+@media only screen and (max-width: 430px) {
+  .scroll-down{
+    bottom: 15%;
+  }
+}
 
 
 .mouse {
